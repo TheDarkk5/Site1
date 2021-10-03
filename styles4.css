@@ -43,3 +43,10 @@ h1 { 		/* définit  les titres H1 */
 	margin: 20px;
 	}
 
+.a1 {
+background-image: fr.png;
+}
+.a2 {
+background-image: usa.png;
+}
+
